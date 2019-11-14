@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# web-barbearia
+FrontEnd da aplicação WEB, para agendamento de serviços de uma barbearia. Desenvolvido com ReactJS.
+>>>>>>> aff0a62b893b7b179bbc9a84782d4747ae9c658c
