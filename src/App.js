@@ -1,11 +1,17 @@
 import React from 'react';
+import { Router } from 'react-router-dom';
+
+import './config/ReactotronConfig';
+
+import history from './services/history';
+import Routes from './routes';
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Opa</h1>
-    </div>
-  );
+    return (
+        <Router history={history}>
+            <Routes />
+        </Router>
+    );
 }
 
 export default App;
