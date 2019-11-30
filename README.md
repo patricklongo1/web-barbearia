@@ -4,6 +4,8 @@
 
 ##### Aplicação desenvolvida com ReactJS.
 
+![GoBarber](https://github.com/patricklongo1/web-barbearia/blob/master/grid.png)
+
 ###### Main Libs:
 1. "@rocketseat/unform": "^1.6.1",
 2. "axios": "^0.19.0",
