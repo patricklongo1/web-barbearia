@@ -46,7 +46,11 @@ export const Container = styled.div`
             border: 0;
             border-radius: 4px;
             font-size: 16px;
+<<<<<<< HEAD
             transition: background 0.2s;
+=======
+            transition: background 0.4s;
+>>>>>>> 1fe3ccd2de38f6b933e4cb6fd5596fee57947bb7
 
             &:hover {
                 background: ${darken(0.1, '#3b9eff')};
@@ -64,10 +68,17 @@ export const Container = styled.div`
         border: 0;
         border-radius: 4px;
         font-size: 16px;
+<<<<<<< HEAD
         transition: background 0.2s;
 
         &:hover {
             background: ${darken(0.08, '#f64c75')};
+=======
+        transition: background 0.4s;
+
+        &:hover {
+            background: ${darken(0.1, '#f64c75')};
+>>>>>>> 1fe3ccd2de38f6b933e4cb6fd5596fee57947bb7
         }
     }
 `;
