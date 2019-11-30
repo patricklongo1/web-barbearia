@@ -29,7 +29,7 @@ export default function Header() {
                                 profile.avatar.url ||
                                 'https://api.adorable.io/avatars/50/abott@adorable.png'
                             }
-                            alt="Patrick Longo"
+                            alt={profile.name}
                         />
                     </Profile>
                 </aside>
